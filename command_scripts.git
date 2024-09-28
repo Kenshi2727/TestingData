@@ -1,0 +1,2 @@
+git show <commit-hash>:index.js
+//for accessing version of files based on commit-hash
